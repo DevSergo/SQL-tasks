@@ -1,4 +1,4 @@
---  Приложение к ЗАДАЧЕ 1
+--  Приложение к Задаче 1
 
 drop table if exists #employee
 create table #employee
