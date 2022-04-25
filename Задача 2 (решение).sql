@@ -1,3 +1,5 @@
+-- решение для задачи 2
+
 SELECT pi2.agr_id, pp2.sum_pp, pi2.sum_pi 
 FROM	
 	(
