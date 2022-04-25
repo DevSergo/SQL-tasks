@@ -1,3 +1,5 @@
+-- РЕШЕНИЕ 1 ДЛЯ ЗАДАЧИ 1
+
 SELECT
 	emp_name,
 	task_count
