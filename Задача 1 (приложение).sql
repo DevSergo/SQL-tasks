@@ -1,4 +1,5 @@
 --  Приложение к Задаче 1
+--  заполнение начальных таблиц данными
 
 drop table if exists #employee
 create table #employee
