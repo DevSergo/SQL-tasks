@@ -1,3 +1,6 @@
+-- приложение к задаче 2
+-- заполнение начальных таблиц данными
+
 drop table if exists #payments_principal
 create table #payments_principal
 (
